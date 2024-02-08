@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#listing all running processes in depth
+ps -a -x -u -f
+
